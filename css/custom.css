@@ -8,3 +8,24 @@
   height: 60px;
   width: auto;
 }
+
+.mapouter {
+  margin-top: 20px;
+  text-align:right;
+  height:660px;
+  width:100%;
+}
+
+.gmap_canvas {
+  overflow:hidden;
+  background:none!important;
+  height:664px;
+  width:836px;
+}
+
+main {
+  background-color: #F6F6F6;
+  height: 100%;
+}
+
+html,body { height:100%; }
