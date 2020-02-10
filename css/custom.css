@@ -23,9 +23,12 @@
   width:836px;
 }
 
-main {
+.about-img {
+  width: 300px;
+  height: auto;
+}
+
+html,body, main {
   background-color: #F6F6F6;
   height: 100%;
 }
-
-html,body { height:100%; }
