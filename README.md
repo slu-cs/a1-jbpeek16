@@ -14,8 +14,8 @@ Overall comments on grading questions:
 
 2) Are the pages reasonably structured with HTML?
     - For the most part, yes.
-    - Could use containers like <section> more to subdivide page content.
-    - Only <li> tags should really be inside <ul> tags (see absentee.html).
+    - Could use containers like section more to subdivide page content.
+    - Only li tags should really be inside ul tags (see absentee.html).
 
 3) Are the pages tolerably styled with Bootstrap?
     - For the most part, yes.
