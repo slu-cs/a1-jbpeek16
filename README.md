@@ -9,8 +9,7 @@ Overall comments on grading questions:
 
 1) Does your site make the information easy to find?
     - Better than the original, but some things could still be easier.
-    - The site doesn't mention anything about early voting.
-    - I have to dig to find the 2020 deadlines for registration and absentee voting.
+    - I have to dig into a PDF to find election dates & deadlines.
 
 2) Are the pages reasonably structured with HTML?
     - For the most part, yes.
